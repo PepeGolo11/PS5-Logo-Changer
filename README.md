@@ -20,6 +20,8 @@ A Windows desktop utility designed for jailbroken PlayStation 5 consoles to mana
 
 ---
 
+<img width="855" height="483" alt="image" src="https://github.com/user-attachments/assets/a5c78355-b8f0-4c47-93c2-47313ca5575b" />
+
 ## 🎮 What It Does
 
 - **Direct PS5 FTP Integration**: Connects seamlessly to your console's FTP server (default port `2121`).
